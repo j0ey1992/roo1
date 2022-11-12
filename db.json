@@ -4,8 +4,8 @@
       {
         "id": 1,
         "img": "/img/thumb_3.png",
-        "img_1": "/img/thumb_6.png",
-        "title": "Participate IGO Stake",
+        "img_1": "/img/PeskyKanga.png",
+        "title": "Pesky Kanga Staking",
         "title_1": "Farming Stake",
         "category": "Game",
         "collapse_link": "#collapseOne",
@@ -27,9 +27,9 @@
       },
       {
         "id": 2,
-        "img": "/img/thumb_4.png",
+        "img": "/img/kangaog.png",
         "img_1": "/img/thumb_7.png",
-        "title": "Gaming Stake",
+        "title": "Kanga Degen Staking",
         "title_1": "Gaming Stake",
         "category": "Staking",
         "collapse_link": "#collapseTwo",
