@@ -265,12 +265,6 @@
         "content": "A browser extension with great flexibility. The web's most popular wallet"
       },
       {
-        "id": 2,
-        "img": "/img/authereum.png",
-        "title": "Authereum",
-        "content": "A user-friendly wallet that allows you to sign up with your phone number on any device"
-      },
-      {
         "id": 3,
         "img": "/img/walletconnect.png",
         "title": "WalletConnect",
