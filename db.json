@@ -276,18 +276,7 @@
         "title": "WalletConnect",
         "content": "Pair with Trust, Argent, MetaMask & more. Works from any browser, without an extension"
       },
-      {
-        "id": 4,
-        "img": "/img/dapper.png",
-        "title": "Dapper",
-        "content": "A security-focused cloud wallet with pin codes and multi-factor authentication"
-      },
-      {
-        "id": 5,
-        "img": "/img/kaikas.png",
-        "title": "Kaikas",
-        "content": "A simple-to-use wallet that works on both mobile and through a browser extension"
-      }
+
     ]
   }
 }
